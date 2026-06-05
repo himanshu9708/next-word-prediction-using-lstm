@@ -1,5 +1,5 @@
 # next-word-prediction-using-lstm
-# FAQ Text Generation using LSTM
+Built an LSTM-based text generation model using TensorFlow and Keras to perform next-word prediction on FAQ data. Implemented tokenization, sequence modeling, word embeddings, and text generation, achieving effective contextual language modeling.
 
 ## Overview
 
